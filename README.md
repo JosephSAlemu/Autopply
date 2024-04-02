@@ -6,12 +6,12 @@
   > https://www.python.org/downloads/release/python-380/
 - Make sure pip is up to date
   > python -m pip install --upgrade pip
-- Install OpenCV
-  > pip install opencv-python
+- Install OpenCV headless
+  > pip install opencv-python-headless
+- Install EasyOCR
+  > pip install easyocr
+- Install matplotlib
+  > pip install matplotlib
 - Install Selenium
-  > pip install selenium
-- Install Requests
-  > pip install requests
-- Install Beautiful Soup
-  > pip install beautifulsoup4
+  > pip install Selenium
 
