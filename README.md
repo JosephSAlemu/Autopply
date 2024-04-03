@@ -1,5 +1,5 @@
 # Autopply
- I don't always have the time to search and apply for internships, so I wanted to create a script to aid me
+ A script created to aid with applying to internships.
 
 # What to install (Windows)
 - Install Python 3.8
