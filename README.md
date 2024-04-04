@@ -14,4 +14,6 @@
   > pip install matplotlib
 - Install Selenium
   > pip install Selenium
+- Install Python-dotenv
+  > pip install python-dotenv
 
